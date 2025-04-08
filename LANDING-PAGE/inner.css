@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    justify-content:center 
+}
+#outer {
+    font-size :25px;
+
+}
+#inner {
+    font-size: 10px
+}

@@ -1,0 +1,20 @@
+                              *****PRACTICE- SET - 1 *****
+
+ Q1 : create a simple div with an id "box". add some text content inside the div. set is background color to blue.
+ Q2: Create  3 heading with h1,h2.h3 & Set is background color red
+ Q3: create a button & set is  background color t :
+      *green using css stylesheet
+      *blue using <style>  tag 
+      *pink using inlinr style 
+                                
+                             *****PRACTICE- SET - 2 *****
+Q1. Create a  heading centered on the page with all of the its text capitalize bby default.
+Q2. Set the  font family of the all content in the document to " Times New Roman".
+Q3.Create one div inside another div.
+    *Set ids  & "outer" for the first one & for the seconnd one .
+    *set the color  div text size to 25 px & inner of text of size to 10px.
+
+                                   *****PRACTICE- SET - 3*****
+ Q1. create a div with height & width of 100 px. Set its background color to green & the border radius to 50 % .
+ Q2.           Create a navbar
+              * amazon.in         amazon      My cart   contanct US           serach amazon.in button (search)*                                   

@@ -1,0 +1,14 @@
+*{
+    margin:20;
+    padding:25;
+}
+.h{
+    background-color: red;
+}
+.para{
+    background-color:blue;
+    margin:15;
+    text-align:right;
+    border :dashed;
+
+}
