@@ -1,0 +1,17 @@
+div {
+    height:100px;
+    width:100px;
+    background-size: cover;
+    color:white;
+    position:fixed;
+    right:0px;
+    top:250px;
+}
+ #dragon img{
+    height:100px;
+    width:100px;
+    background-size :cover;
+    position:fixed;
+
+   
+}

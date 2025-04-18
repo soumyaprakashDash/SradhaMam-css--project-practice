@@ -1,0 +1,36 @@
+/* div{
+    background-color:pink;
+    display:flex;
+    justify-content:space-evenly; */
+a{
+    text-decoration:none;
+    color:black;
+    
+}
+li{
+    list-style-type:none;
+    display:inline;   
+     background-color:rgb(243, 225, 228);
+
+
+}
+
+ .navbar{
+    justify-content:space-evenly;
+    display:flex;
+    background-color:rgb(230, 22, 22);
+
+}
+.outer {
+    height:100px;
+    width:100px;
+    background-color:cornflowerblue;
+    display :flex;
+    justify-content:center;
+    align-items: center;
+}
+.inner{
+    height:100px;
+    width:100px;
+    background-color :darkorchid;
+}

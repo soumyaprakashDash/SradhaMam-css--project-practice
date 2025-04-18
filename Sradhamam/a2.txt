@@ -1,0 +1,30 @@
+                     *********PRACTICE-SET-4***************
+   Q1.create a webpage  layout with header ,a footer & content area containing  divs.
+       Set the height & width of divs to 100px;(add a previous navbar in the header)
+    Q2. Add border to all the divs .
+    Q3.Add a different background color to each div with an opacity of 0.5.
+    Q4.Give the content area an appropriate height.    
+
+                    ************PRACTISE-SET-5**************
+     Q1.create  the following layout using the given html.
+     Q2. GIve the div height ,width & somw background-image.
+     Q3. USe the appropiate positio for the div element to  place it at the right end of the page ( the div should not 
+     move or scroll).                                
+                 ************PRACTISE-SET-6**************
+     Q1.create  a navbar with 4 option in the form of anchor tags inside list items.
+     now use flexbox to place them all space equaly in a single line.
+     Q2. USe flexbox to center one div inside another div .
+     Q3.Which has higher priority-align items or algn-self?
+                ************PRACTISE-SET-7**************
+
+      Qs. Add a media query to implement the following :
+    Q1. The color of a div changes  to green for viewport width less than 300px 
+    Q2.The color of a div changes  to pink for  width between 300px & 400px 
+    Q3 .The color of a div changes  to red for width between 400px & 600 px 
+    Q4. The color of a div changes  to blue for width above 600px 
+                ************PRACTISE-SET-8**************
+
+     QS. Create a simple loader using CSS 
+     Q1. Create a div with circular shape  and thick border from one end (top/bottom/left/right)
+     Q2. To make it spin create an animation which transforms it form 0-360 degree.
+     Q3. Add the animation property to the loader with infinite duration .           
